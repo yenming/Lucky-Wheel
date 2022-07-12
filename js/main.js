@@ -111,12 +111,6 @@ $('.btnGroup a').on('click', function() {
 			.addClass('active')
 			.siblings()
 			.removeClass('active')
-	} else if ($(this).hasClass('to2018')) {
-		url = './db2018.json'
-		$(this)
-			.addClass('active')
-			.siblings()
-			.removeClass('active')
-	}
+	} 
 	init()
 })
