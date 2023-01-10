@@ -1,222 +1,257 @@
 [
-  {
-    "text": "世局",
-    "icon": "",
-    "num": 15
-  },
-  {
-    "text": "汝青",
-    "icon": "",
-    "num": 11
-  },
-  {
-    "text": "羽亭",
-    "icon": "",
-    "num": 6
-  },
-  {
-    "text": "壯洪",
-    "icon": "",
-    "num": 4
-  },
-  {
-    "text": "芊慧",
-    "icon": "",
-    "num": 19
-  },
-  {
-    "text": "宗霖",
-    "icon": "",
-    "num": 18
-  },
-  {
-    "text": "宜紋",
-    "icon": "",
-    "num": 8
-  },
-  {
-    "text": "尚錡",
-    "icon": "",
-    "num": 6
-  },
-  {
-    "text": "尚謙",
-    "icon": "",
-    "num": 1
-  },
-  {
-    "text": "忠政",
-    "icon": "",
-    "num": 6
-  },
-  {
-    "text": "怡萱",
-    "icon": "",
-    "num": 9
-  },
-  {
-    "text": "承欣",
-    "icon": "",
-    "num": 6
-  },
-  {
-    "text": "承濬",
-    "icon": "",
-    "num": 8
-  },
-  {
-    "text": "明翰",
-    "icon": "",
-    "num": 7
-  },
-  {
-    "text": "玟瑾",
-    "icon": "",
-    "num": 11
-  },
-  {
-    "text": "育誠",
-    "icon": "",
-    "num": 8
-  },
-  {
-    "text": "彥銘",
-    "icon": "",
-    "num": 14
-  },
-  {
-    "text": "思永",
-    "icon": "",
-    "num": 8
-  },
-  {
-    "text": "映君",
-    "icon": "",
-    "num": 25
-  },
-  {
-    "text": "春錫",
-    "icon": "",
-    "num": 3
-  },
-  {
-    "text": "炳昌",
-    "icon": "",
-    "num": 15
-  },
-  {
-    "text": "美惠",
-    "icon": "",
-    "num": 2
-  },
-  {
-    "text": "虹蓁",
-    "icon": "",
-    "num": 14
-  },
-  {
-    "text": "家蓁",
-    "icon": "",
-    "num": 4
-  },
-  {
-    "text": "浩名",
-    "icon": "",
-    "num": 4
-  },
-  {
-    "text": "珮君",
-    "icon": "",
-    "num": 7
-  },
-  {
-    "text": "梨馨",
-    "icon": "",
-    "num": 15
-  },
-  {
-    "text": "翊閎",
-    "icon": "",
-    "num": 13
-  },
-  {
-    "text": "連楓",
-    "icon": "",
-    "num": 4
-  },
-  {
-    "text": "惠芳",
-    "icon": "",
-    "num": 14
-  },
-  {
-    "text": "晶晶",
-    "icon": "",
-    "num": 13
-  },
-  {
-    "text": "湘涵",
-    "icon": "",
-    "num": 13
-  },
-  {
-    "text": "紫榛",
-    "icon": "",
-    "num": 2
-  },
-  {
-    "text": "貴虹",
-    "icon": "",
-    "num": 10
-  },
-  {
-    "text": "雅如",
-    "icon": "",
-    "num": 13
-  },
-  {
-    "text": "媺雲",
-    "icon": "",
-    "num": 8
-  },
-  {
-    "text": "歆瑜",
-    "icon": "",
-    "num": 16
-  },
-  {
-    "text": "毓倫",
-    "icon": "",
-    "num": 6
-  },
-  {
-    "text": "鼎珉",
-    "icon": "",
-    "num": 9
-  },
-  {
-    "text": "榮輝",
-    "icon": "",
-    "num": 11
-  },
-  {
-    "text": "睿紘",
-    "icon": "",
-    "num": 4
-  },
-  {
-    "text": "憶媗",
-    "icon": "",
-    "num": 7
-  },  
-  {
-    "text": "鏞樺",
-    "icon": "",
-    "num": 15
-  },
-  {
-    "text": "韻蓮",
-    "icon": "",
-    "num": 3
-  }
+    {
+        "text ": " 陳虹蓁 ",
+        " icon ": null,
+        " num ": " 95.00 "
+    },
+    {
+        "text ": " 余芊慧 ",
+        " icon ": null,
+        " num ": " 122.00 "
+    },
+    {
+        "text ": " 莊承濬 ",
+        " icon ": null,
+        " num ": " 90.00 "
+    },
+    {
+        "text ": " 黃春錫 ",
+        " icon ": null,
+        " num ": " 49.00 "
+    },
+    {
+        "text ": " 羅世局 ",
+        " icon ": null,
+        " num ": " 113.00 "
+    },
+    {
+        "text ": " 蘇羽亭 ",
+        " icon ": null,
+        " num ": " 59.00 "
+    },
+    {
+        "text ": " 李函融 ",
+        " icon ": null,
+        " num ": " 21.00 "
+    },
+    {
+        "text ": " 彭鏞樺 ",
+        " icon ": null,
+        " num ": " 56.00 "
+    },
+    {
+        "text ": " 翁梨馨 ",
+        " icon ": null,
+        " num ": " 74.00 "
+    },
+    {
+        "text ": " 顏壯洪 ",
+        " icon ": null,
+        " num ": " 59.00 "
+    },
+    {
+        "text ": " 李珮君 ",
+        " icon ": null,
+        " num ": " 37.00 "
+    },
+    {
+        "text ": " 吳貴虹 ",
+        " icon ": null,
+        " num ": " 63.00 "
+    },
+    {
+        "text ": " 林映君 ",
+        " icon ": null,
+        " num ": " 66.00 "
+    },
+    {
+        "text ": " 紀惠芳 ",
+        " icon ": null,
+        " num ": " 99.00 "
+    },
+    {
+        "text ": " 黃媺雲 ",
+        " icon ": null,
+        " num ": " 53.00 "
+    },
+    {
+        "text ": " 江睿紘 ",
+        " icon ": null,
+        " num ": " 46.00 "
+    },
+    {
+        "text ": " 白歆瑜 ",
+        " icon ": null,
+        " num ": " 48.00 "
+    },
+    {
+        "text ": " 陳 Chen炳昌 Eric ",
+        " icon ": null,
+        " num ": " 64.00 "
+    },
+    {
+        "text ": " 吳宗霖 ",
+        " icon ": null,
+        " num ": " 47.00 "
+    },
+    {
+        "text ": " 林鼎珉 ",
+        " icon ": null,
+        " num ": " 40.00 "
+    },
+    {
+        "text ": " 彭仁隆 ",
+        " icon ": null,
+        " num ": " 41.00 "
+    },
+    {
+        "text ": " 魏榮輝 ",
+        " icon ": null,
+        " num ": " 48.00 "
+    },
+    {
+        "text ": " 吳玟瑾 ",
+        " icon ": null,
+        " num ": " 61.00 "
+    },
+    {
+        "text ": " 洪承欣 ",
+        " icon ": null,
+        " num ": " 60.00 "
+    },
+    {
+        "text ": " 張宜紋 ",
+        " icon ": null,
+        " num ": " 48.00 "
+    },
+    {
+        "text ": " 簡毓倫 ",
+        " icon ": null,
+        " num ": " 46.00 "
+    },
+    {
+        "text ": " 周憶媗 ",
+        " icon ": null,
+        " num ": " 37.00 "
+    },
+    {
+        "text ": " 黃彥銘 ",
+        " icon ": null,
+        " num ": " 41.00 "
+    },
+    {
+        "text ": " 詹雅如 ",
+        " icon ": null,
+        " num ": " 68.00 "
+    },
+    {
+        "text ": " 朱家蓁 ",
+        " icon ": null,
+        " num ": " 28.00 "
+    },
+    {
+        "text ": " 蔣思永 ",
+        " icon ": null,
+        " num ": " 24.00 "
+    },
+    {
+        "text ": " 廖翊閎 ",
+        " icon ": null,
+        " num ": " 63.00 "
+    },
+    {
+        "text ": " 黃湘涵 ",
+        " icon ": null,
+        " num ": " 55.00 "
+    },
+    {
+        "text ": " 蔡美惠 ",
+        " icon ": null,
+        " num ": " 21.00 "
+    },
+    {
+        "text ": " 蔡林忠政 ",
+        " icon ": null,
+        " num ": " 20.00 "
+    },
+    {
+        "text ": " 葉凱文 ",
+        " icon ": null,
+        " num ": " 13.00 "
+    },
+    {
+        "text ": " 張晶晶 ",
+        " icon ": null,
+        " num ": " 40.00 "
+    },
+    {
+        "text ": " 朱紫榛 ",
+        " icon ": null,
+        " num ": " 38.00 "
+    },
+    {
+        "text ": " 徐汝青 ",
+        " icon ": null,
+        " num ": " 29.00 "
+    },
+    {
+        "text ": " 謝明翰 ",
+        " icon ": null,
+        " num ": " 31.00 "
+    },
+    {
+        "text ": " 張育誠 ",
+        " icon ": null,
+        " num ": " 30.00 "
+    },
+    {
+        "text ": " 邱彥霖 ",
+        " icon ": null,
+        " num ": " 8.00 "
+    },
+    {
+        "text ": " 林定詮 ",
+        " icon ": null,
+        " num ": " 6.00 "
+    },
+    {
+        "text ": " 靳知勇 ",
+        " icon ": null,
+        " num ": " 7.00 "
+    },
+    {
+        "text ": " 吳尚謙 ",
+        " icon ": null,
+        " num ": " 14.00 "
+    },
+    {
+        "text ": " 呂浩名 ",
+        " icon ": null,
+        " num ": " 20.00 "
+    },
+    {
+        "text ": " 陳逸華 ",
+        " icon ": null,
+        " num ": " 1.00 "
+    },
+    {
+        "text ": " 鄭羽桓 ",
+        " icon ": null,
+        " num ": " 11.00 "
+    },
+    {
+        "text ": " 陸家穎 ",
+        " icon ": null,
+        " num ": " 2.00 "
+    },
+    {
+        "text ": " 林尚錡 ",
+        " icon ": null,
+        " num ": " 17.00 "
+    },
+    {
+        "text ": " 李孟融 ",
+        " icon ": null,
+        " num ": " 5.00"
+    }
 ]
